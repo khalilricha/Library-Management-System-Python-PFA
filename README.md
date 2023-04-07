@@ -23,3 +23,5 @@ Une première zone(Frame) avec des champs pour saisir les informations du livre 
 Une deuxième zone(Frame) avec un tableau liée à une base de données MYSQL via XAMPP pour stocker les informations du livre saisies par l'utilisateur,
 Une checkbox de recherche, une entrée de l'élément à rechercher, un bouton Rechercher et un bouton Afficher Tout.
 
+Tous les éléments implémentés sont commentés au niveau du code source.
+
